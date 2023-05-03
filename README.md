@@ -6,3 +6,10 @@ Regression is a type of supervised learning problem where the goal is to predict
 Sentiment analysis, on the other hand, is a type of supervised learning problem where the goal is to classify text data as having a positive, negative, or neutral sentiment. The input to a sentiment analysis model is typically a piece of text, such as a review or a tweet, and the output is a label indicating the sentiment of the text. Sentiment analysis models typically use natural language processing techniques to extract relevant features from the text, such as the presence of positive or negative words, and then use these features to classify the text.
 
 In summary, the main difference between regular regression and sentiment analysis is that regression predicts a continuous value while sentiment analysis classifies text data into discrete categories based on the sentiment of the text.
+
+finding?
+- counted words
+- most used words
+- chapters
+- regex 
+- semtiment analysis 
